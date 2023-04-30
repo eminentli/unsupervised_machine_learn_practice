@@ -15,4 +15,4 @@ The file contains data for 2240 customers across 29 attributes. it includes cust
 
 ## Jupyter Notebook
 The detail steps of the unsupervised machine learning practice can be found in the Jupyter Notebook file in the folder:
-*customer-segmentation-clustering.ipynb
+* customer-segmentation-clustering.ipynb
