@@ -11,3 +11,8 @@ https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/download?datasetVe
 
 
 The file contains data for 2240 customers across 29 attributes. it includes customer demographic information (year_birty, education, etc.), the customer's transaction with the grocery firm (purchase on different product, purchase through different channel, etc), and the customer response to the campaigns from the grocry firm.
+
+
+## Jupyter Notebook
+The detail steps of the unsupervised machine learning practice can be found in the Jupyter Notebook file in the folder:
+*customer-segmentation-clustering.ipynb
